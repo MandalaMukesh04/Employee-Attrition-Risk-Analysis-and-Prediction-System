@@ -1,0 +1,2 @@
+Total Employees,Total Attrition,Attrition Rate (%),Top Correlated Reasons
+1470,237,16.12,"['OverTime', 'MaritalStatus', 'DistanceFromHome', 'JobRole', 'Department']"
